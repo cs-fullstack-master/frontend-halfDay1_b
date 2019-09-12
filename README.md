@@ -4,12 +4,13 @@
 
 Create a two player game similar to the image attached. When one player takes the lead, show that in the middle area. You should also give them the option to choose the type of play style (keyboard or mouse), and give them the option to toggle the background color in the game.
 
-<strong>Note:</strong> The bottom portion of the attached image is the bonus.
-
-Player Score font size is 200px
-Button font size is 48px
-Winner area font size is 24px
-Footer font size is 24px
+<strong>Notes:</strong>
+* The bottom portion of the attached image is the bonus.
+* The general sizes of each button is below
+* * Player Score font size is 200px
+* * Button font size is 48px
+* * Winner area font size is 24px
+* * Footer font size is 24px
 
 #### Step 1:
 Create an HTML and use CSS Grid to create a page similar to step1.png.
