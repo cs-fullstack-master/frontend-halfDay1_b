@@ -1,1 +1,43 @@
 # frontend-halfDay1_b
+
+### Button Clicking Game
+
+Create a two player game similar to the image attached. When one player takes the lead, show that in the middle area. You should also give them the option to choose the type of play style (keyboard or mouse), and give them the option to toggle the background color in the game.
+
+<strong>Note:</strong> The bottom portion of the attached image is the bonus.
+
+Player Score font size is 200px
+Button font size is 48px
+Winner area font size is 24px
+Footer font size is 24px
+
+#### Step 1:
+Create an HTML and use CSS Grid to create a page similar to step1.png.
+
+#### Step 2:
+Create an HTML and use CSS Grid to create a page similar to step2.png.
+
+#### Step 3:
+Create an HTML and use CSS Grid to create a page similar to step3.png.
+
+#### Step 4:
+In a JavaScript file, once the P1 button is pressed increase the text above it by 1. Do the same for P2.
+
+#### Step 5: 
+Create a function that will print update the winner label if one player has a higher score than the other. If the have the same score, make the label say "Tied".
+
+#### Step 6:
+Figure out where to put the function.
+
+<hr>
+
+## CHALLENGES
+
+### Challenge1
+Once a player reaches 15, alert the winner then restart the game.
+
+### Challenge2
+Toggle background colors on and off.
+
+### Challenge3
+Make keyboard and mouse options. Disable and stop events from counting the points when the option is not chosen. 
