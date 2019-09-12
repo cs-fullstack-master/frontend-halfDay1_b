@@ -13,7 +13,7 @@ Create a two player game similar to the image attached. When one player takes th
 * * Footer font size is 24px
 
 #### Step 1:
-Create an HTML and use CSS Grid to create a page similar to step1.png.
+Create an HTML and use CSS Grid to create a page similar to step1.png. If you are still working on this step after 1:45p ask for help!!!
 
 #### Step 2:
 Create an HTML and use CSS Grid to create a page similar to step2.png.
