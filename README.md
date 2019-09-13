@@ -2,7 +2,7 @@
 
 ### Button Clicking Game
 
-Create a two player game similar to the image attached. When one player takes the lead, show that in the middle area. You should also give them the option to choose the type of play style (keyboard or mouse), and give them the option to toggle the background color in the game.
+Create a two player game similar to the image attached. When one player takes the lead, show that in the middle area.
 
 <strong>Notes:</strong>
 * PUT COMMENTS IN YOUR JAVASCRIPT
